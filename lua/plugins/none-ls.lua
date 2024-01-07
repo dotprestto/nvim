@@ -20,7 +20,6 @@ return {
 				null_ls.builtins.diagnostics.cppcheck,
 
 				-- cmake
-				null_ls.builtins.formatting.cmakelang,
 				null_ls.builtins.diagnostics.checkmake,
 				null_ls.builtins.diagnostics.clang_check,
 
